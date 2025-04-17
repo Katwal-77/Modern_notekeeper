@@ -29,7 +29,7 @@ A modern, feature-rich note-taking app with cloud sync, password protection, che
 
 ## Folder Structure
 ```
-keeper-part-3-completed/
+Modern_notekeeper/
 ├── src/
 │   ├── components/
 │   │   ├── App.jsx           # Main app logic
@@ -108,7 +108,7 @@ keeper-part-3-completed/
 ### 1. Clone or Download
 ```
 git clone <this-repo-url>
-cd keeper-part-3-completed
+cd Modern_notekeeper
 ```
 Or download the ZIP and extract.
 
